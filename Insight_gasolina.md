@@ -1,6 +1,6 @@
 
 
-![Gasolina](gasolina.png)
+![Gasolina](grafico)
 
 * Insights:
 
